@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "Continente",
+        "Formulario",
+        "fronteira",
+        "Fronteiras",
+        "Selecione",
+        "Seletor",
+        "Seletores"
+    ],
+    "esp.token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRlaWphaS5hbG1laWRhIiwiaWF0IjoxNjUyOTg5NzQwLCJ0eXBlIjoiY3JlZGVudGlhbCIsImV4cCI6MTY2MDc2NTc0MH0.yUnjJsE6OeMfERBlCEtGCJhaYk_FS10J_NCzmf0BDMM",
+    "esp.updateTokenTimeout": true,
+    "totvsLanguageServer.welcomePage": false
+}
